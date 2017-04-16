@@ -1,5 +1,5 @@
-read me....
+# Learning GIT
 
+## Project created for learning the GIT commands
 
-
-yes
+### This is third level heading
